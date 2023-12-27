@@ -10,3 +10,6 @@ It will create an entry to the nagios.cfg pointing the file cfg_file=/usr/local/
 Assign user and group permission to the file all_hosts.cfg
 
 Nagios service will be restarted
+
+
+Note: This was tested in CentOS Stream 8, it should work in any other Red Hat based distro.
